@@ -1,38 +1,46 @@
-# Titanic Survival Prediction
+# Internship CodSoft Project
 
-This project is aimed at predicting the survival of passengers aboard the Titanic using machine learning algorithms.
+Welcome to the Internship CodSoft project! This repository contains solutions to four tasks in the field of data science and machine learning. Each task addresses a specific problem and utilizes different datasets and techniques. Below, you'll find descriptions of each task along with relevant details.
 
-## Introduction
+## Tasks Overview:
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, resulting in the deaths of a large number of passengers and crew. In this project, we analyze the Titanic dataset to predict whether a passenger survived or not based on various features such as age, gender, ticket class, etc.
+### 1. Titanic Survival Prediction
+The task involves building a model to predict whether a passenger on the Titanic survived or not. The Titanic dataset provides information about individual passengers, including age, gender, ticket class, fare, cabin, and survival status.
 
-## Installation
+**Check Task1.**
 
-To run this project, you need Python 3 installed on your system along with the following libraries:
+### 2. Movie Rating Prediction with Python
+In this task, the goal is to predict the rating of a movie based on features like genre, director, and actors. Regression techniques are used to tackle this problem. The dataset consists of historical movie data and associated ratings.
 
+**Check Task2.**
+
+### 3. Iris Flower Classification
+The task focuses on classifying Iris flowers into different species based on their sepal and petal measurements. The Iris dataset contains measurements for three species: setosa, versicolor, and virginica.
+
+**Check Task3.**
+
+### 4. Sales Prediction using Python
+Sales prediction involves forecasting the amount of a product that customers will purchase, considering factors such as advertising expenditure and target audience segmentation. Machine learning techniques in Python are employed to analyze and interpret sales data.
+
+**Check Task4.**
+
+## Getting Started
+To explore each task, navigate to the respective directories in this repository. You'll find detailed instructions, code implementations, and dataset links within each directory.
+
+## Requirements
+- Python 3
+- Jupyter Notebook
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
 
-You can install these libraries using pip:
+## Contributors
+- Najma El boutaheri
+- Email: najma.elboutaheri@etu.uae.ac.ma
 
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
-## Usage
+Feel free to contribute to this project by providing enhancements, fixing bugs, or adding new features. If you have any questions or suggestions, please open an issue or reach out to the project maintainers.
 
-Clone the repository to your local machine:
-- git clone https://github.com/your-username/titanic-survival-prediction.git
-Navigate to the project directory:
-- cd titanic-survival-prediction
-Run the Jupyter notebook:
-- jupyter notebook Titanic_Survival_Prediction.ipynb
-
-## Contributing
-
-Contributions to this project are welcome. You can contribute by reporting issues, suggesting improvements, or submitting pull requests.
-
-
+Happy coding!
 
